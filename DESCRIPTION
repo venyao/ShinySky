@@ -12,3 +12,4 @@ Depends:
     RJSONIO,
     plyr
 URL: https://github.com/AnalytixWare/ShinySky
+RoxygenNote: 6.1.0
